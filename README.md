@@ -3,11 +3,11 @@
 >>> Minimal Configuration: <<<
 
 Chromedriver exe File location: 
-"C:\DevWork\AssessInvestTests\AssessInvestTests\bin\Debug"
+"C:\DevWork\AssessInvestTests\AssessInvestTests"
 
 If chromedriver exe cannot be located when executing.
 Create folder structure as below and drop exe in Debug folder:
-"C:\DevWork\AssessInvestTests\AssessInvestTests\bin\Debug"
+"C:\DevWork\AssessInvestTests\AssessInvestTests"
 
 
 [ Tests have been Developed and executed on VS 2017. ]
